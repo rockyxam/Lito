@@ -48,3 +48,5 @@ In order to use DB we:
 1)Establishing a connection
 2)Create a statement
 3)Execute the query
+
+![rockydibb](https://user-images.githubusercontent.com/49916341/102119910-04a14500-3e6c-11eb-8b4c-b7bef51d31e4.jpg)
